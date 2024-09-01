@@ -45,7 +45,6 @@ def get_secret_num():
     secret_number = ''
     for i in range(NUM_DIGITS):
         secret_number += str(numbers[i])
-    print (secret_number)
     return secret_number
 
 def get_clues(guess, secret_number):
