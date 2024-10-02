@@ -15,7 +15,6 @@ def merge(left, right):
 
     return sorted_array
 
-
 def merge_sort(arr):
     if len(arr) <= 1:
         return arr
