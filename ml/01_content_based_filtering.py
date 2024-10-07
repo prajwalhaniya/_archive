@@ -29,6 +29,6 @@ recommendations = list(enumerate(cosine_sim[0]))
 recommendations = sorted(recommendations, key=lambda x: x[1], reverse=True)
 
 recommended_indices = [i[0] for i in recommendations if books['title'][i[0]] not in liked_books]
-top_recommendations = books['title'].iloc[recommended_indices].head(2)  # Top 2 recommendations
+top_recommendations = books['title'].iloc[recommended_indices].head(2)
 
 print("Recommended Books:", top_recommendations.tolist())
