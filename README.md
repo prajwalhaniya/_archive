@@ -1,5 +1,5 @@
-# Problem solving with python
-
+# py_archive
+Collection of problems and interesting articles related to the field of software engineering
 
 ### Sorting
 
@@ -21,3 +21,8 @@
 - [Inverted right pyramid number](/pattern_problems/06_inverted_right_pyramid_number.py)
 - [Star pyramid](/pattern_problems/07_star_pyramid.py)
 - [Inverted star pyramid](/pattern_problems/08_inverted_star_pyramid.py)
+
+#### Articles
+
+- [A word on scalability](/articles/0001_A_word_on_scalability.md)
+- [Server side io: node vs php vs java](/articles/0002.server_side_io_node_vs_php_vs_java.md)
