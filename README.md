@@ -26,3 +26,8 @@ Collection of problems and interesting articles related to the field of software
 
 - [A word on scalability](/articles/0001_A_word_on_scalability.md)
 - [Server side io: node vs php vs java](/articles/0002.server_side_io_node_vs_php_vs_java.md)
+
+
+#### Software packages
+
+- [Datashader](https://datashader.org/getting_started/Introduction.html)
