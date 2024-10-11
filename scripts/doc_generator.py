@@ -9,8 +9,15 @@ def process_file_name(file_name):
     else:
         processed_name = file_name
 
-    if processed_name.endswith('.md'):
+    markdown_file = processed_name.endswith('.md')
+    python_file = processed_name.endswith('.py')
+    pdf_file = processed_name.endswith('.pdf')
+
+    if markdown_file or python_file:
         processed_name = processed_name[:-3]
+
+    if pdf_file:
+        processed_name = processed_name[:-4]
 
     processed_name = processed_name.replace('_', ' ')
 
@@ -60,15 +67,16 @@ def list_files_in_directory(directory):
 directories_list = [
     '../Research_papers',
     '../articles',
+    '../ml',
     '../Algorithms',
     '../pattern_problems',
     '../array/easy',
     '../array/medium',
-    '../linked_list/easy',
-    '../ml'
+    '../linked_list/easy'
 ]
 
-delete_contents_from_readme(3)
+line_number = 3
+delete_contents_from_readme(line_number)
 
 for index, directory in enumerate(directories_list):
     write_to_file(f'\n #### {directory[3:]} \n')
