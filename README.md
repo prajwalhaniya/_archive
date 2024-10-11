@@ -37,7 +37,8 @@ Collection of problems and interesting articles related to the field of software
 - [Two sum.py](/array/medium/01_two_sum.py) 
 - [Majority element.py](/array/medium/03_majority_element.py) 
 
- #### linkd_list/easy 
+ #### linked_list/easy 
+- [Insert at head.py](/linked_list/easy/01_insert_at_head.py) 
 
  #### ml 
 - [Content based filtering.py](/ml/01_content_based_filtering.py) 

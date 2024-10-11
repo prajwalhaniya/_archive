@@ -64,7 +64,7 @@ directories_list = [
     '../pattern_problems',
     '../array/easy',
     '../array/medium',
-    '../linkd_list/easy',
+    '../linked_list/easy',
     '../ml'
 ]
 
