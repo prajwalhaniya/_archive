@@ -4,6 +4,7 @@ Collection of problems and interesting articles related to the field of software
  #### Research_papers 
 - [Agent s.pdf](/Research_papers/0002_Agent_s.pdf) 
 - [Building your own product copilot.pdf](/Research_papers/0001_Building_Your_Own_Product_Copilot.pdf) 
+- [Deep neural networks for youtube recommendations.pdf](/Research_papers/0003_Deep_neural_networks_for_youtube_recommendations.pdf) 
 
  #### articles 
 - [Server side io node vs php vs java](/articles/0002_server_side_io_node_vs_php_vs_java.md) 
