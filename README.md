@@ -5,11 +5,13 @@ Collection of problems and interesting articles related to the field of software
 - [Agent s](/Research_papers/0002_Agent_s.pdf) 
 - [Building your own product copilot](/Research_papers/0001_Building_Your_Own_Product_Copilot.pdf) 
 - [Deep neural networks for youtube recommendations](/Research_papers/0003_Deep_neural_networks_for_youtube_recommendations.pdf) 
+- [Item based collaborative filtering recommendation algorithms](/Research_papers/0004_item_based_collaborative_filtering_recommendation_algorithms.pdf) 
 
  #### articles 
 - [Server side io node vs php vs java](/articles/0002_server_side_io_node_vs_php_vs_java.md) 
 - [Space time & groceries](/articles/0003_space_time_&_groceries.md) 
 - [The pain points of building a copilot](/articles/0004_the_pain_points_of_building_a_copilot.md) 
+- [Ai vs ml vs dl](/articles/0005_AI_vs_ML_vs_DL.md) 
 - [A word on scalability](/articles/0001_A_word_on_scalability.md) 
 
  #### ml 
