@@ -15,7 +15,9 @@ Collection of problems and interesting articles related to the field of software
 - [A word on scalability](/articles/0001_A_word_on_scalability.md) 
 
  #### ml 
+- [Item based collaborative filtering](/ml/06_item_based_collaborative_filtering.py) 
 - [Content based filtering](/ml/01_content_based_filtering.py) 
+- [Cosine similarity](/ml/05_cosine_similarity.py) 
 - [Compute nearest neighbor](/ml/03_compute_nearest_neighbor.py) 
 - [Manhattan distance](/ml/02_manhattan_distance.py) 
 - [Recommend](/ml/04_recommend.py) 
