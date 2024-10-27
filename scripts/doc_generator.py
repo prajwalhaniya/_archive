@@ -70,9 +70,9 @@ directories_list = [
     '../ml',
     '../Algorithms',
     '../pattern_problems',
-    '../array/easy',
-    '../array/medium',
-    '../linked_list/easy'
+    '../data_structures/array/easy',
+    '../data_structures/array/medium',
+    '../data_structures/linked_list/easy'
 ]
 
 line_number = 3

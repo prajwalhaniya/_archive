@@ -36,17 +36,17 @@ Collection of problems and interesting articles related to the field of software
 - [Inverted right pyramid number](/pattern_problems/06_inverted_right_pyramid_number.py) 
 - [Right angled numbered pyramid 2](/pattern_problems/04_right_angled_numbered_pyramid_2.py) 
 
- #### array/easy 
-- [Largetst element in an array](/array/easy/01_largetst_element_in_an_array.py) 
-- [Check if array is sorted](/array/easy/03_check_if_array_is_sorted.py) 
-- [Second smallest and largest element](/array/easy/02_second_smallest_and_largest_element.py) 
-- [Remove duplicates from sorted array](/array/easy/04_remove_duplicates_from_sorted_array.py) 
+ #### data_structures/array/easy 
+- [Largetst element in an array](/data_structures/array/easy/01_largetst_element_in_an_array.py) 
+- [Check if array is sorted](/data_structures/array/easy/03_check_if_array_is_sorted.py) 
+- [Second smallest and largest element](/data_structures/array/easy/02_second_smallest_and_largest_element.py) 
+- [Remove duplicates from sorted array](/data_structures/array/easy/04_remove_duplicates_from_sorted_array.py) 
 
- #### array/medium 
-- [Sort array 0 1 2](/array/medium/02_sort_array_0_1_2.py) 
-- [Maximum subarray sum](/array/medium/04_maximum_subarray_sum.py) 
-- [Two sum](/array/medium/01_two_sum.py) 
-- [Majority element](/array/medium/03_majority_element.py) 
+ #### data_structures/array/medium 
+- [Sort array 0 1 2](/data_structures/array/medium/02_sort_array_0_1_2.py) 
+- [Maximum subarray sum](/data_structures/array/medium/04_maximum_subarray_sum.py) 
+- [Two sum](/data_structures/array/medium/01_two_sum.py) 
+- [Majority element](/data_structures/array/medium/03_majority_element.py) 
 
- #### linked_list/easy 
-- [Insert at head](/linked_list/easy/01_insert_at_head.py) 
+ #### data_structures/linked_list/easy 
+- [Insert at head](/data_structures/linked_list/easy/01_insert_at_head.py) 

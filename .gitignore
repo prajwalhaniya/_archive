@@ -2,3 +2,4 @@ venv
 .ipynb_checkpoints
 *.ipynb
 pyrightconfig.json
+projects
