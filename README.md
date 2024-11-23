@@ -36,6 +36,10 @@ Collection of problems and interesting articles related to the field of software
 - [Inverted right pyramid number](/pattern_problems/06_inverted_right_pyramid_number.py) 
 - [Right angled numbered pyramid 2](/pattern_problems/04_right_angled_numbered_pyramid_2.py) 
 
+ #### data_structures/fundamental_implementation 
+- [Tree](/data_structures/fundamental_implementation/binary_tree.py) 
+- [Stack](/data_structures/fundamental_implementation/01_stack.py) 
+
  #### data_structures/array/easy 
 - [Largetst element in an array](/data_structures/array/easy/01_largetst_element_in_an_array.py) 
 - [Check if array is sorted](/data_structures/array/easy/03_check_if_array_is_sorted.py) 

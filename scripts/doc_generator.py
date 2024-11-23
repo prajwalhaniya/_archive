@@ -70,6 +70,7 @@ directories_list = [
     '../ml',
     '../Algorithms',
     '../pattern_problems',
+    '../data_structures/fundamental_implementation',
     '../data_structures/array/easy',
     '../data_structures/array/medium',
     '../data_structures/linked_list/easy'

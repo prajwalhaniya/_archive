@@ -8,7 +8,6 @@ class Stack:
     def pop(self):
         if not self.is_empty():
             return self.items.pop()
-
         else:
             raise IndexError("Cannot pop from an empty stack")
     
