@@ -28,3 +28,17 @@ class AccountStatus(Enum):
     Closed = 2
     Canceled = 3
     Blacklisted = 4
+
+class OrderStatus(Enum):
+    Received = 1
+    Preparing = 2
+    Complete = 3
+    Canceled = 4
+
+class ReservationStatus(Enum):
+    Requested = 1
+    Pending = 2
+    Confirmed = 3
+    CheckedIn = 4
+    Canceled = 5
+    Abandoned = 6 
