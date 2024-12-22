@@ -15,18 +15,13 @@ class SmsNotification(Notification):
         self.__phone = phone
         super().__init__(notification_id, created_on, content)
 
-    # account here refers to an instance of the Account class 
     def send(person):
-        # functionality 
         pass
-
 
 class EmailNotification(Notification):
     def __init__(self, email, notification_id, created_on, content):
         self.__email = email
         super().__init__(notification_id, created_on, content)
 
-    # account here refers to an instance of the Account class 
     def send(person):
-        # functionality 
         pass
